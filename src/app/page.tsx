@@ -6,6 +6,8 @@ export default function Home() {
       <Link href='/private'>Private</Link>
 
       <Link href='/public'>Public</Link>
+
+      <Link href='/data'>Data</Link>
     </div>
   );
 }
